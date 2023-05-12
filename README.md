@@ -7,7 +7,7 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on Mobile development technologies with ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development, CI/CD, UI testing;
+- 👨‍💻 I’m currently working on Mobile development technologies with ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development, UI, UX testing;
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
