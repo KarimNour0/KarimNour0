@@ -23,6 +23,8 @@
 [<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 <a href="https://www.linkedin.com/in/karim-nour/"><img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /></a>
 
+<a href="(https://www.instagram.com/karimnour100/)"><img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /></a>
+
 
 
 <br />
