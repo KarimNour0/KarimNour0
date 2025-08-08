@@ -52,17 +52,6 @@
 <a href="(https://www.instagram.com/karimnour100/)"><img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /></a>
 
 
-
-<br />
-
----
-
-
-
-<br/>
-
----
-
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
