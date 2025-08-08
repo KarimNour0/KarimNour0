@@ -69,7 +69,7 @@
 
 ---
 
- ### ⭐️ From [Karim](https://github.com/KarimNour0) ### 
+ ### ⭐️ From [Karim Nour](https://github.com/KarimNour0) ### 
  
 ---
 
