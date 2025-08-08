@@ -2,14 +2,16 @@
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  -->
- 
+
  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Power BI Developer 
 
-- 👨‍💻 I’m currently working on Mobile development technologies with ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development, UI, UX testing;
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍🎓 Graduate of Faculty of Computers and Data Science, Alexandria University.
+- 🎓 Graduate of ITI Power BI Track.
+- 📊 I’m currently working with Power BI to create insightful, interactive dashboards and reports that help organizations make data-driven decisions.
+- 📚 I’m continuously learning advanced data modeling, DAX formulas, and Power Query to enhance my skills.
+- 💪🏼 Future Goals: Master all aspects of Power BI and related BI tools - Never stop improving and creating value.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ---
@@ -21,6 +23,22 @@
 
 <a href="https://www.linkedin.com/in/karim-nour/"><img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /></a>
 
+
+<a href="(https://www.instagram.com/karimnour100/)"><img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /></a>
+
+
+
+<br />
+
+---
+
+### Languages and Tools 🛠 
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
+![DAX](https://img.shields.io/badge/-DAX-004578?style=flat-square&logo=microsoft-power-bi)
+![M Query](https://img.shields.io/badge/-Power%20Query-005A9C?style=flat-square&logo=microsoft-power-bi)
+
+---
 
 <a href="(https://www.instagram.com/karimnour100/)"><img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /></a>
 
